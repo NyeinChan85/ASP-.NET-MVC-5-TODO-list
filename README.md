@@ -6,7 +6,7 @@ The Model-View-Controller (MVC) architectural pattern separates an application i
 
 The MVC framework includes the following components:
 
-* Models
+Models
 ---------
 Model objects are the parts of the application that implement the logic for the application's data domain. Often, model objects retrieve and store model state in a database. For example, a Product object might retrieve information from a database, operate on it, and then write updated information back to a Products table in a SQL Server database.
 
