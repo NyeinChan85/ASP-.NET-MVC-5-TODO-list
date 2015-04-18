@@ -1,7 +1,7 @@
 # ASP .NET MVC 5 TODO list (version 1.0)
 ========================================
 
-It's a simple to-do-list app created by using ASP.NET MVC 5 models with Entity Framework. It still needs a lot of improvments.
+It's a simple to-do-list app created by using ASP.NET MVC 5 models with Entity Framework. It still needs some improvments.
 The Model-View-Controller (MVC) architectural pattern separates an application into three main components: the model, the view, and the controller. The ASP.NET MVC framework provides an alternative to the ASP.NET Web Forms pattern for creating Web applications. The ASP.NET MVC framework is a lightweight, highly testable presentation framework that (as with Web Forms-based applications) is integrated with existing ASP.NET features, such as master pages and membership-based authentication. 
 
 The MVC framework includes the following components:
