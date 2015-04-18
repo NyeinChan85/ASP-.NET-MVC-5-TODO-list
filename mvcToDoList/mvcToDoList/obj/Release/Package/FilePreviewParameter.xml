@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="todolistofnck" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Nyeinchan_2\\Documents\\Visual\ Studio\ 2013\\mvc5Projects\\mvcToDoList\\mvcToDoList\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Nyeinchan_2\\Documents\\Visual\ Studio\ 2013\\mvc5Projects\\mvcToDoList\\mvcToDoList\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:chan.database.windows.net,1433;Initial Catalog=todolistofnck_db;User ID=NYEINCHAN@chan;Password=fuckU2013" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Nyeinchan_2\\Documents\\Visual\ Studio\ 2013\\mvc5Projects\\mvcToDoList\\mvcToDoList\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="mvcToDoList.Models.TodosDBContext-Web.config Connection String" description="" value="Data Source=tcp:chan.database.windows.net,1433;Initial Catalog=todolistofnck_db;User ID=NYEINCHAN@chan;Password=fuckU2013" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Nyeinchan_2\\Documents\\Visual\ Studio\ 2013\\mvc5Projects\\mvcToDoList\\mvcToDoList\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='mvcToDoList.Models.TodosDBContext']/@connectionString" />
+  </parameter>
+</parameters>
