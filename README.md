@@ -1,4 +1,4 @@
-# ASP-.NET-MVC-5-TODO-list (version 1.0)
+# ASP .NET MVC 5 TODO list (version 1.0)
 ========================================
 
 It's a simple to-do-list app created by using ASP.NET MVC 5 framework. It still needs a lot of improvments.
