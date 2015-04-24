@@ -26,10 +26,6 @@ Prerequisites
 * Microsoft SQL Server Management Studio 2008/2012 (OPTIONAL)
 * AZURE cloud platform(OPTIONAL)
 
-Tutorials
-=========
-
-Watch [this] (http://www.asp.net/mvc/overview/getting-started/introduction/getting-started) as you start building your own app. It will be extremely helpful.
 
 You can play around my app. My app is live [here] (http://todolistofnck.azurewebsites.net)
 
