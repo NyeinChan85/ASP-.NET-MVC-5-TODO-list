@@ -27,5 +27,4 @@ Prerequisites
 * AZURE cloud platform(OPTIONAL)
 
 
-You can play around my app. My app is live [here] (http://todolistofnck.azurewebsites.net)
 
